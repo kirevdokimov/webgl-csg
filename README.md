@@ -1,6 +1,6 @@
 ![rec5](https://user-images.githubusercontent.com/5202070/118199944-ca5cc380-b45c-11eb-8986-36039697c08f.gif)
 # webgl-csg
-Constructive Solid Geometry example in WebGL
+Constructive Solid Geometry example in WebGL. [Live Demo](https://kirevdokimov.github.io/webgl-csg/)
 
 ```
 npm i 
